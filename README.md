@@ -41,7 +41,7 @@ I'm a **full-stack developer, ML enthusiast, and singer-songwriter** based in Mo
 - 🔗 [linkedin.com/in/mira-muti](https://linkedin.com/in/mira-muti)  
 - 🌐 [beacons.ai/mira.almuti](https://beacons.ai/mira.almuti)  
 - Instagram: [@mira.almuti on Instagram](https://www.instagram.com/mira.almuti/)
-- [Spotify:(https://open.spotify.com/artist/2jcl3W7H32xj6fOMQ7uh88)]
+- Spotify:(https://open.spotify.com/artist/2jcl3W7H32xj6fOMQ7uh88)
   
 
 ---
