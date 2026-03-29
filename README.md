@@ -46,4 +46,4 @@ I'm a **full-stack developer, ML enthusiast, and singer-songwriter** based in Mo
 
 ---
 
-🧠 I believe tech should be expressive — not just functional. Whether it’s a dashboard, a beat, or a backend — I build with feeling.
+🧠 Striving towards bridging the gap between tech and creative expression, be it through art, music, data science or full stack development. 
