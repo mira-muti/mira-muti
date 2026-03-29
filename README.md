@@ -23,7 +23,7 @@ I'm a **full-stack developer, ML enthusiast, and singer-songwriter** based in Mo
 ## 🔧 What I'm Working On
 
 - **ViralVision**: Built an ML-powered tool to analyze viral Instagram Reels and TikToks using visual + audio embeddings and explainability metrics.
-- **Sun Youth Data Platform (NORD Consulting)**: Leading dev on a JavaScript-based analytics pipeline transforming survey data from 20K+ users into executive dashboards.
+- **Data Platform (NORD Consulting) for a Montreal Non-Profit**: Leading dev on a JavaScript-based analytics pipeline transforming survey data from 20K+ users into executive dashboards.
 - **Music AI Caption Generator**: Built a tool that auto-generates subtitles for bilingual lyrics using OpenAI + React — 90% faster than manual workflows.
 - **TaskSync AI**: AI-powered project management web app using NLP classifiers for task triage and deadline prediction — boosted planning speed by 50%.
 
