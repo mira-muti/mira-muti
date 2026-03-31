@@ -23,6 +23,7 @@ I'm a **full-stack developer, ML enthusiast, and singer-songwriter** based in Mo
 ## 🔧 What I'm Working On
 
 - **ViralVision**: Built an ML-powered tool to analyze viral Instagram Reels and TikToks using visual + audio embeddings and explainability metrics.
+- **DataBASS Booking System**: a full-stack database application for managing a music studio booking system. It integrates a DB2 relational database with a Java-based command-line interface to handle bookings, staff assignment, scheduling, and operational analytics.
 - **Data Platform (NORD Consulting) for a Montreal Non-Profit**: Leading dev on a JavaScript-based analytics pipeline transforming survey data from 20K+ users into executive dashboards.
 - **Music AI Caption Generator**: Built a tool that auto-generates subtitles for bilingual lyrics using OpenAI + React — 90% faster than manual workflows.
 - **TaskSync AI**: AI-powered project management web app using NLP classifiers for task triage and deadline prediction — boosted planning speed by 50%.
