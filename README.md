@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **mira-muti/mira-muti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hey — I'm Mira 
+# Hey - I'm Mira 
 
 I'm a **full-stack developer, ML enthusiast, and singer-songwriter** based in Montreal. I'm currently pursuing a Bachelors in Computer Science + Music Tech at McGill and building tools that sit at the intersection of **AI, creativity, and impact**.
 
